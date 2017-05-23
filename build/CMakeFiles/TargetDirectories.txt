@@ -1,0 +1,3 @@
+/mnt/shared/game/server/build/test/CMakeFiles/client.dir
+/mnt/shared/game/server/build/test/CMakeFiles/server.dir
+/mnt/shared/game/server/build/src/CMakeFiles/tcpserver.dir

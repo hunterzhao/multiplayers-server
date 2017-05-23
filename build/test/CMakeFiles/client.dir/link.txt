@@ -1,0 +1,1 @@
+/usr/bin/c++    -g -std=c++11 -Wall -o2    CMakeFiles/client.dir/client.cpp.o  -o ../../bin/client  -L/mnt/shared/game/server/lib -rdynamic 

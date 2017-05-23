@@ -1,0 +1,2 @@
+/usr/bin/ar cr libtcpserver.a  CMakeFiles/tcpserver.dir/tcpserver.cpp.o
+/usr/bin/ranlib libtcpserver.a

@@ -1,0 +1,1 @@
+/usr/bin/c++    -g -std=c++11 -Wall -o2    CMakeFiles/server.dir/testtcpserver.cpp.o  -o ../../bin/server  -L/mnt/shared/game/server/lib -rdynamic ../src/libtcpserver.a -Wl,-rpath,/mnt/shared/game/server/lib 

@@ -1,0 +1,2 @@
+/usr/bin/ar cr libcloud.a  CMakeFiles/cloud.dir/tcpserver.cpp.o
+/usr/bin/ranlib libcloud.a
